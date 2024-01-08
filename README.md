@@ -1,5 +1,5 @@
 # KotlinJourney
-An android development project to explain real world difference of abstract classes and interfaces
+Explain real world difference of abstract classes and interfaces
 
 Abstract classes are classes that cannot be instantiated and have methods that are not implemented and this methods must be overridden in the subclass.its like a general type of object. 
 while
